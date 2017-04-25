@@ -2,7 +2,7 @@
   "name": "express-knex",
   "version": "1.0.0",
   "description": "",
-  "main": "nodemon server.js",
+  "main": "nodemon ./server/server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
